@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PreetIsCool
-- 👀 I’m interested in coding, listening Lofi, laughing on memes, sleeping and reading and sometimes gaming
-- 🌱 I’m currently learning C
+- 👋 Hi, I’m Preet Nandaniya
+- 👀 I’m interested in coding and sleeping
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing currently
-- 📫 Reach me through Discord { carrot-lemon_boi#6138 }
+- 📫 Reach me through Gmail (preet.nandaniya@gmail.com)
 
 <!---
 PreetIsCool/PreetIsCool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
