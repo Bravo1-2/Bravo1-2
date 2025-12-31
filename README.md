@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preet Nandaniya</h1>
-<h3 align="center">A 14-yr old who likes to code :)</h3>
+<h3 align="center">A 15-yr old who likes to code :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bravo1-2&label=Profile%20views&color=0e75b6&style=flat" alt="bravo1-2" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [physics.core](https://sites.google.com/view/physics-core/home)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C**
 
 - 👯 I’m looking to collaborate on [physics.core](https://sites.google.com/view/physics-core/home)
 
